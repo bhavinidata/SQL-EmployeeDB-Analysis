@@ -28,7 +28,7 @@ Research project on employees of the corporation from the 1980s and 1990s. Data 
 * Used the information to create a table schema for each of the six CSV files. Specified data types, primary keys, foreign keys, and other constraints.
 
 #### Data Analysis
-* Performed Analysis on various aspects of employee information and answered below questions: 
+* Performed Analysis on various aspects of employee information listed below:
 
     1. Listed the following details of each employee: employee number, last name, first name, gender, and salary.
 

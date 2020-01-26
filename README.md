@@ -13,11 +13,11 @@ Research project on employees of the corporation from the 1980s and 1990s. Data 
 6. titles.csv
 
 ## Tools and Technology:
-SQL
-Python
-Pandas
-Entity Relationship Diagram
-Postgres
+* SQL
+* Python
+* Pandas
+* Entity Relationship Diagram
+* Postgres
 
 ## Task
 

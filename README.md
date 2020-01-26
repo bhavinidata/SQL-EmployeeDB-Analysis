@@ -18,6 +18,8 @@ Research project on employees of the corporation from the 1980s and 1990s. Data 
 * Pandas
 * Entity Relationship Diagram
 * Postgres
+* Matplotlib
+* SQLAlchemy
 
 ## Task
 
